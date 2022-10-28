@@ -1,0 +1,36 @@
+
+body {background-color: powderblue;
+
+}
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  width: 10%;
+  border-color:grey;
+  border-width:5px;
+
+}
+h1{color:#66BFBF;}
+h3{color:#66BFBF;}
+
+.circular
+{
+border-radius:100%;
+
+}
+.skills
+{
+color:green;
+}
+tr:hover
+{
+  color:darkgreen;
+}
+li:hover
+{
+  color:darkgreen;
+}
+h3:hover
+{
+  font-size:20px;
+}
